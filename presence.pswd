@@ -1,0 +1,12 @@
+###############################################################################
+#
+# This file contains the password for the router.  There should only be one
+# line in the file, with a single entry on it.  All lines begining with #
+# are ignored.
+#
+# It is highly recommended this flie be located in a secure location and the
+# permissions be set to 600 so no other users can read the file.
+#
+###############################################################################
+#
+# password

@@ -1,0 +1,17 @@
+###############################################################################
+#
+# This file lists the devices that should be check for connection to the local
+# network.  When the connection status of one of these devices changes the
+# main script with notify the Smartthing application specified.  One device
+# per line.  Lines starting with a # are ignored.
+#
+# Line format: name,mac,appid,token
+#
+# name  - A friendly name for this device
+# mac   - The mac address to look for in the routers list of devices
+# appid - The Smartthings published Application ID (from the IDE)
+# token - The Smartthings Application AuthZ token
+#
+###############################################################################
+#
+# myname,mymac,myappid,mytokenid
