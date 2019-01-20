@@ -16,5 +16,10 @@ Many thanks to [Mathieu Velten](https://github.com/MatMaul?tab=repositories) for
 * There is a very good thread about this on the [Smartthing Community](https://community.smartthings.com/t/release-asuswrt-wifi-presence/37802) site with many additional options
 
 ## Detailed Setup Instructions
-* TODO
 
+1. Download and install pynetgear
+```
+git clone https://github.com/MatMaul/pynetgear.git
+pip install pynetgear
+pip3 install pynetgear
+```
