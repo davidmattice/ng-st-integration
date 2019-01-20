@@ -19,7 +19,8 @@ Many thanks to [Mathieu Velten](https://github.com/MatMaul?tab=repositories) for
 
 1. Download and install pynetgear
 ```
-git clone https://github.com/MatMaul/pynetgear.git
-pip install pynetgear
-pip3 install pynetgear
+git clone https://github.com/MatMaul/pynetgear.git (optional)
+python --version
+pip install pynetgear (if version is 2.x)
+pip3 install pynetgear (if version is 3.x)
 ```
