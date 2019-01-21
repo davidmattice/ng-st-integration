@@ -24,3 +24,9 @@ python --version
 pip install pynetgear (if version is 2.x)
 pip3 install pynetgear (if version is 3.x)
 ```
+
+2. Test pynetgear
+```
+python -m pynetgear <password>
+```
+This should return a list of connected devices
