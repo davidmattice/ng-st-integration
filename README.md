@@ -21,8 +21,8 @@ Many thanks to [Mathieu Velten](https://github.com/MatMaul?tab=repositories) for
 ```
 git clone https://github.com/MatMaul/pynetgear.git (optional)
 python --version
-pip install pynetgear (if version is 2.x)
-pip3 install pynetgear (if version is 3.x)
+sudo pip install pynetgear (if version is 2.x)
+sudo pip3 install pynetgear (if version is 3.x)
 ```
 
 2. Test pynetgear
